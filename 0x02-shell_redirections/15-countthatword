@@ -1,0 +1,2 @@
+#!/bin/bash
+grip -c bin /etc/passwd
